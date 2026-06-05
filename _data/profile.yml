@@ -35,8 +35,8 @@ portrait_url: /assets/images/photos/portrait.png
 #  Photo by Julie Doro
 
 education:
-- name: University of British Columbia (UBC)
-  logo: /assets/images/badges/DUKE.png 
+- name: University of British Columbia
+  logo: /assets/images/badges/UBC.png 
   position: MA and PhD in Psychology
   date: 2010
 - name: Duke University
@@ -45,15 +45,15 @@ education:
   date: 2003
 
 experience:
-- name: Simon Fraser University (SFU)
+- name: Simon Fraser University
   logo: /assets/images/badges/SFU.png
   position: Assistant/Associate Professor
   date: 2016 - present
-- name: French National Centre for Scientific Research (CNRS)
+- name: Centre National de la Recherche Scientifique
   logo: /assets/images/badges/CNRS.png
   position: Researcher
   date: 2013 - present
-- name: Université Paris Descartes (now Paris Cité)
+- name: Université Paris Cité
   logo: /assets/images/badges/UPC.png
   position: Postdoc
   date: 2011 - 2013
