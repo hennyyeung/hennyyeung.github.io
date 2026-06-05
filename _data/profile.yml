@@ -1,10 +1,10 @@
-primary_name: "Ho Henny Yeung"
-secondary_name: "Test"
-navbar_name: "Henny Yeung"
+primary_name: "Henny Yeung"
+secondary_name: ""
+navbar_name: "Ho Henny Yeung"
 
 positions:
-- name: Professor @ Simon Fraser University
-- name: CNRS Researcher @ Université Paris Cité
+- name: Professor @ Simon Fraser
+- name: CNRS Researcher @ Paris Cité
 #  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
@@ -37,9 +37,7 @@ portrait_url: /assets/images/photos/portrait.jpg
 education:
 - name: University of British Columbia
   logo: /assets/images/badges/DUKE.png 
-  position: >- 
-    Department of Psychology <br/>
-    M.A. and Ph.D.
+  position: M.A. and Ph.D. in Psychology
   date: Sep. 2004 - Nov. 2010
 - name: Duke University
   logo: /assets/images/badges/DUKE.png
@@ -49,9 +47,9 @@ education:
 experience:
 - name: Simon Fraser University
   logo: /assets/images/badges/SFU.png
-  position: Professor
+  position: Associate Professor
   date: Jan. 2016 - present
-- name: French National Centre for Scientific Research
+- name: CNRS & Université Paris Cité
   logo: /assets/images/badges/CNRS.png
   position: Researcher
   date: Oct. 2013 - present
