@@ -9,8 +9,8 @@ positions:
 
 
 email: "henny_yeung@sfu.ca"
-email: "ho-henny.yeung@u-pariscite.fr"
-cv_link: https://1sfu-my.sharepoint.com/:b:/g/personal/hohennyy_sfu_ca/EXwHH9snm_lMkCUZy7Q53aIB-W4VkH1E8mtr_29wOe0E2A
+#email: "ho-henny.yeung@u-pariscite.fr"
+#cv_link: https://1sfu-my.sharepoint.com/:b:/g/personal/hohennyy_sfu_ca/EXwHH9snm_lMkCUZy7Q53aIB-W4VkH1E8mtr_29wOe0E2A
 gscholar: ci6jTnAAAAAJ  # This is an example, replace it with your own Google Scholar ID
 #github: your_github_id
 #twitter: your_twitter_id  # Do not include the '@' symbol
@@ -23,7 +23,7 @@ orcid: 0000-0003-4601-6924
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourp[...]
   </p>
   <p>
     I am a researcher in Linguistics and Cognitive Science. This page is under construction.
@@ -47,17 +47,17 @@ education:
 
 experience:
 - name: Simon Fraser University
-   logo: /assets/images/badges/SFU.png
-   position: Professor
-   date: Jan. 2016 - present
+  logo: /assets/images/badges/SFU.png
+  position: Professor
+  date: Jan. 2016 - present
 - name: French National Centre for Scientific Research
-   logo: /assets/images/badges/CNRS.png
-   position: Researcher
-   date: Oct. 2013 - present
+  logo: /assets/images/badges/CNRS.png
+  position: Researcher
+  date: Oct. 2013 - present
 - name: Université Paris Cité
-   logo: /assets/images/badges/UPC.png
-   position: Postdoc
-   date: Oct. 2011 - Sep. 2013
+  logo: /assets/images/badges/UPC.png
+  position: Postdoc
+  date: Oct. 2011 - Sep. 2013
 
 
 awards:
