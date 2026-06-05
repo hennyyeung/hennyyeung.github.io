@@ -3,10 +3,8 @@ secondary_name: "Test"
 navbar_name: "Henny Yeung"
 
 positions:
-- name: Professor & Researcher
-- name: Simon Fraser University
-- name: CNRS
-- name: Université Paris Cité
+- name: Professor @ Simon Fraser University
+- name: CNRS Researcher @ Université Paris Cité
 #  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
@@ -38,7 +36,7 @@ portrait_url: /assets/images/photos/portrait.jpg
 
 education:
 - name: University of British Columbia
-  logo: 
+  logo: /assets/images/badges/DUKE.png 
   position: >- 
     Department of Psychology <br/>
     M.A. and Ph.D.
@@ -64,7 +62,7 @@ experience:
 
 
 awards:
-- name: Excellence in Teaching Award (SFU)
+- name: SFU Excellence in Teaching Award
   date: 2024
 #- name: Award Name 1 
 #  date: 2021
