@@ -22,15 +22,16 @@ linkedin: henny-yeung-521a5282
 orcid: 0000-0003-4601-6924
 
 short_bio_text_justify: false
-short_bio: >-
+short_bio: #A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourp[...]
+>-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourp[...]
+    This page is under construction.
   </p>
   <p>
-    I am a researcher in Linguistics and Cognitive Science. This page is under construction.
+    I am a researcher in Linguistics and Cognitive Science.
   </p>
 
-portrait_url: /assets/images/photos/portrait.png
+portrait_url: /assets/images/photos/portrait.jpg
 #portrait_caption: >-
 #  Photo by Julie Doro
 
