@@ -8,9 +8,9 @@ positions:
 #  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
-email: 
-  - "henny_yeung@sfu.ca"
-  - "ho-henny.yeung@u-pariscite.fr"
+emails:
+  - henny_yeung@sfu.ca
+  - ho-henny.yeung@u-pariscite.fr
 cv_link: https://1sfu-my.sharepoint.com/:b:/g/personal/hohennyy_sfu_ca/EXwHH9snm_lMkCUZy7Q53aIB-W4VkH1E8mtr_29wOe0E2A
 gscholar: ci6jTnAAAAAJ  # This is an example, replace it with your own Google Scholar ID
 #github: your_github_id
