@@ -5,7 +5,7 @@ navbar_name: "Ho Henny Yeung"
 positions:
 - name: Professor @ Simon Fraser
 - name: CNRS Researcher @ Paris Cité
-#  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+#  logo: /assets/images/badges/SFU.png  # Logo is optional
 
 
 emails:
@@ -23,9 +23,9 @@ orcid: 0000-0003-4601-6924
 
 short_bio_text_justify: false
 short_bio: >-
-  #<p>
-  #  A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourp[...]
-  #</p>
+  <p>
+    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourp[...]
+  </p>
   <p>
     I am a researcher in Linguistics and Cognitive Science. This page is under construction.
   </p>
@@ -35,9 +35,9 @@ portrait_url: /assets/images/photos/portrait.png
 #  Photo by Julie Doro
 
 education:
-- name: University of British Columbia
+- name: University of British Columbia (UBC)
   logo: /assets/images/badges/DUKE.png 
-  position: MA + PhD in Psychology
+  position: MA and PhD in Psychology
   date: 2010
 - name: Duke University
   logo: /assets/images/badges/DUKE.png
@@ -45,15 +45,15 @@ education:
   date: 2003
 
 experience:
-- name: Simon Fraser University
+- name: Simon Fraser University (SFU)
   logo: /assets/images/badges/SFU.png
   position: Assistant/Associate Professor
   date: 2016 - present
-- name: CNRS (French National Centre for Scientific Research)
+- name: French National Centre for Scientific Research (CNRS)
   logo: /assets/images/badges/CNRS.png
   position: Researcher
   date: 2013 - present
-- name: Université Paris Cité
+- name: Université Paris Descartes (now Paris Cité)
   logo: /assets/images/badges/UPC.png
   position: Postdoc
   date: 2011 - 2013
