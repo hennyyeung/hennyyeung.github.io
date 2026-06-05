@@ -3,8 +3,9 @@ secondary_name: "Test"
 navbar_name: "Henny Yeung"
 
 positions:
-- name: Researcher - CNRS & Université Paris Cité
-- name: Professor - Simon Fraser University
+- name: Professor & Researcher
+- name: Simon Fraser University
+- name: CNRS & Université Paris Cité
 #  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
@@ -36,13 +37,13 @@ portrait_url: /assets/images/photos/portrait.jpg
 
 education:
 - name: University of Britich Columbia
-  logo: /assets/images/badges/UBC.png
+  #logo: /assets/images/badges/UBC.png
   position: >- 
     Department of Psychology <br/>
     M.A. and Ph.D.
   date: Sep. 2004 - Nov. 2010
 - name: Duke University
-  logo: /assets/images/badges/DUKE.png
+  #logo: /assets/images/badges/DUKE.png
   position: B.S. in Neurolinguistics
   date: Sep. 1999 - May. 2003
 
