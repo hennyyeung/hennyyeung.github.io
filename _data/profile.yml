@@ -9,8 +9,8 @@ positions:
 
 
 email: "henny_yeung@sfu.ca"
-#email: "ho-henny.yeung@u-pariscite.fr"
-#cv_link: https://1sfu-my.sharepoint.com/:b:/g/personal/hohennyy_sfu_ca/EXwHH9snm_lMkCUZy7Q53aIB-W4VkH1E8mtr_29wOe0E2A
+email: "ho-henny.yeung@u-pariscite.fr"
+cv_link: https://1sfu-my.sharepoint.com/:b:/g/personal/hohennyy_sfu_ca/EXwHH9snm_lMkCUZy7Q53aIB-W4VkH1E8mtr_29wOe0E2A
 gscholar: ci6jTnAAAAAJ  # This is an example, replace it with your own Google Scholar ID
 #github: your_github_id
 #twitter: your_twitter_id  # Do not include the '@' symbol
@@ -46,15 +46,15 @@ education:
   date: Sep. 1999 - May. 2003
 
 experience:
- - name: Simon Fraser University
+- name: Simon Fraser University
    logo: /assets/images/badges/SFU.png
    position: Professor
    date: Jan. 2016 - present
- - name: French National Centre for Scientific Research
+- name: French National Centre for Scientific Research
    logo: /assets/images/badges/CNRS.png
    position: Researcher
    date: Oct. 2013 - present
-- name: Paris Cité University
+- name: Université Paris Cité
    logo: /assets/images/badges/UPC.png
    position: Postdoc
    date: Oct. 2011 - Sep. 2013
