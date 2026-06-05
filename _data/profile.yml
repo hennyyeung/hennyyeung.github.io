@@ -5,7 +5,7 @@ navbar_name: "Ho Henny Yeung"
 positions:
 - name: Professor @ Simon Fraser
 - name: CNRS Researcher @ Paris Cité
-#  logo: /assets/images/badges/SFU.png  # Logo is optional
+  logo: /assets/images/badges/SFU.png  # Logo is optional
 
 
 emails:
