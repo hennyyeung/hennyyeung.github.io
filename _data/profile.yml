@@ -37,26 +37,26 @@ portrait_url: /assets/images/photos/portrait.jpg
 education:
 - name: University of British Columbia
   logo: /assets/images/badges/DUKE.png 
-  position: M.A. and Ph.D. in Psychology
-  date: Sep. 2004 - Nov. 2010
+  position: MA + PhD in Psychology
+  date: 2010
 - name: Duke University
   logo: /assets/images/badges/DUKE.png
-  position: B.S. in Neurolinguistics
-  date: Sep. 1999 - May. 2003
+  position: BS in Neurolinguistics
+  date: 2003
 
 experience:
 - name: Simon Fraser University
   logo: /assets/images/badges/SFU.png
-  position: Associate Professor
-  date: Jan. 2016 - present
-- name: CNRS & Université Paris Cité
+  position: Assistant/Associate Professor
+  date: 2016 - present
+- name: CNRS (French National Centre for Scientific Research)
   logo: /assets/images/badges/CNRS.png
   position: Researcher
-  date: Oct. 2013 - present
+  date: 2013 - present
 - name: Université Paris Cité
   logo: /assets/images/badges/UPC.png
   position: Postdoc
-  date: Oct. 2011 - Sep. 2013
+  date: 2011 - 2013
 
 
 awards:
