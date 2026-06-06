@@ -28,12 +28,13 @@ short_bio: #A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank
     This page is under construction.
   </p>
   <p>
-    I am a researcher in Linguistics and Cognitive Science.
+    I am a researcher in <strong>Linguistics</strong> and <strong>Cognitive Science</strong>, interested in prosody and style in speech directed to infants and children, and as used in digital media and technology.
+    I also work on second language (L2) acquisition in children and adults, and previously did basic research on speech learning in infancy.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
-#portrait_caption: >-
-#  Photo by Julie Doro
+portrait_caption: >-
+  Photo by Julie Doro
 
 education:
 - name: University of British Columbia
@@ -42,7 +43,7 @@ education:
   date: 2010
 - name: Duke University
   logo: /assets/images/badges/DUKE.png
-  position: BS in Neurolinguistics
+  position: BSc in Neurolinguistics
   date: 2003
 
 experience:
@@ -56,7 +57,7 @@ experience:
   date: 2013 - present
 - name: Université Paris Cité
   logo: /assets/images/badges/UPC.png
-  position: Postdoc
+  position: Fyssen Foundation Postdoc
   date: 2011 - 2013
 
 
