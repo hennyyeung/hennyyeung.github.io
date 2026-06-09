@@ -5,9 +5,9 @@ selected:       false
 pub:            "Trends in Cognitive Sciences"
 pub_last:		' <span class="badge badge-pill badge-publication badge-success">Review</span>'
 pub_date:       "2005"
-semantic_scholar_id: 11985641
+semantic_scholar_id: 70f58c7a446f1d6b02efd752be3ac6047696865d
 abstract: >-
-  This paper investigates infant speech perception bootstraps word learning.
+  Highly cited review paper looking at how infant speech perception is linked to their subsequent word learning
 cover:          /assets/images/covers/Werker_2005.jpg
 authors:
 - Janet Werker
