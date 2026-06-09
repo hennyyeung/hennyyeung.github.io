@@ -7,7 +7,7 @@ pub_last:		' <span class="badge badge-pill badge-publication badge-success">Revi
 pub_date:       "2005"
 semantic_scholar_id: 70f58c7a446f1d6b02efd752be3ac6047696865d
 abstract: >-
-  Highly cited review paper looking at how infant speech perception is linked to their subsequent word learning
+  Review paper looking at how infants sound learning helps them learn words
 cover:          /assets/images/covers/Werker_2005.jpg
 authors:
 - Janet Werker
