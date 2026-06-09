@@ -1,22 +1,33 @@
-"Your Name":
+"Henny Yeung":
   bold: true
 
-"Robert White":
-  url: https://www.google.com/?q=Robert+White
+# Postdocs
 
-"Charles Green (MIT)":
-  name: Charles Green
-  url: https://www.google.com/?q=Charles+Green+MIT
+"Andrew Cheng":
+  url: https://www2.hawaii.edu/~acheng20/
+  
+"Fenqi Wang":
+  url: https://www.fenqiw.com/
+  
+"Paige Tuttösí"
+  url: https://chocobearz.github.io/
 
-"Charles Green (Stanford)":
-  name: Charles Green
-  url: https://www.google.com/?q=Charles+Green+Stanford
+#PhD
 
-"Garrett Harris":
-  url: https://www.google.com/?q=Garrett+Harris
+"Xizi Deng":
+  url: https://daniellexzd.github.io/
+  
+#MA
 
-"James Wang":
-  url: https://www.google.com/?q=James+Wang
+"Ha Eun Shim":
+  url: https://haeunshim.github.io/
+  
+"Ka Keung Lee":
+  url: https://scholar.google.com/citations?user=UNx_vUMAAAAJ
+  
+"Magda Ivok":
+  url: https://www.linkedin.com/in/magdalena-ivok/
+  
 
-"John Doe":
-  url: https://www.google.com/?q=John+Doe
+
+
