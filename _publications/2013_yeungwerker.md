@@ -1,5 +1,5 @@
 ---
-title:          "Learning words’ sounds before learning how words sound: 9-month-olds use distinct objects as cues to categorize speech information"
+title:          "Lip movements affect infants’ audiovisual speech perception"
 date:           2013-01-01 00:00:00 +0000
 selected:       true
 pub:            "Psychological Science"
@@ -7,7 +7,7 @@ pub_last:
 pub_date:       "2013"
 semantic_scholar_id: 
 abstract: >-
-  Showed how sensorimotor feedback from lip/tongue movement affects infant (audiovisual) speech perception
+  Showed how sensorimotor feedback from lip/tongue movement can affect infants' ability to match faces to vowel sounds
 cover:          /assets/images/covers/YeungWerker_2013.jpg
 authors:
 - Henny Yeung
