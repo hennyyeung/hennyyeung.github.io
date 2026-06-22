@@ -1,6 +1,6 @@
 ---
 title:          "When does native language input affect phonetic perception? The precocious case of lexical tone"
-date:           2009-01-01 00:00:00 +0000
+date:           2013-01-01 00:00:00 +0000
 selected:       true
 pub:            "Journal of Memory and Language"
 pub_last:		
