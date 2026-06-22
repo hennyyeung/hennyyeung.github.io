@@ -3,7 +3,7 @@ title:          "How Do Infants Become Experts at Native-Speech Perception?"
 date:           2012-01-01 00:00:00 +0000
 selected:       false
 pub:            "Current Directions in Psychological Science"
-pub_last:		
+pub_last:		    <span class="badge badge-pill badge-publication badge-success">Review</span>
 pub_date:       "2012"
 semantic_scholar_id: 1af55a227525beba1cd9779e389a0e260c7583ba
 abstract: >-
