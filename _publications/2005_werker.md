@@ -13,6 +13,6 @@ authors:
 - Janet Werker
 - Henny Yeung
 links:
-  Paper: https://doi.org/10.1016/J.TICS.2005.09.003
-  DOI: https://doi.org/10.1016/J.TICS.2005.09.003
+  doi: https://doi.org/10.1016/J.TICS.2005.09.003
+  pdf: https://www.sfu.ca/content/dam/sfu/langdev/Research/Publications/Werker%20and%20Yeung%20-%202005%20-%20Infant%20speech%20perception%20bootstraps%20word%20learning.pdf
 ---
