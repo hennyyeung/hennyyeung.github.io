@@ -16,4 +16,4 @@ authors:
 links:
   doi: https://doi.org/10.1016/J.JML.2012.09.004
   pdf: https://www.sfu.ca/content/dam/sfu/langdev/Research/Publications/Yeung,%20Chen,%20Werker%20-%202013%20-%20Journal%20of%20Memory%20and%20Language.pdf
-  ---
+---
