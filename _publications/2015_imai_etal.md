@@ -5,7 +5,7 @@ selected: false
 pub: "PLoS ONE"
 pub_last:
 pub_date: "2015"
-semantic_scholar_id:
+semantic_scholar_id: 9b3b4eb3aa0477b21e8b3285ed69dafeb8932943
 abstract: >-
   Provides evidence that sound-symbolic correspondences help infants acquire new words.
 cover: /assets/images/covers/2015_imai_etal.jpg
