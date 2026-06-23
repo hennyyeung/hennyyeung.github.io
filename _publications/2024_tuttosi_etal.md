@@ -19,5 +19,5 @@ authors:
   - Angelica Lim
 links:
   doi: https://doi.org/10.21437/Interspeech.2024-1296
-  pdf: https://www.sfu.ca/content/dam/sfu/langdev/Research/Publications/tuttosi24_interspeech.pdf
+  pdf: https://www.isca-archive.org/interspeech_2024/tuttosi24_interspeech.pdf
 ---
