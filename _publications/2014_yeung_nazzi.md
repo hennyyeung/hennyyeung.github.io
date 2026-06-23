@@ -5,7 +5,7 @@ selected: false
 pub: "Cognition"
 pub_last:
 pub_date: "2014"
-semantic_scholar_id:
+semantic_scholar_id: 81fcd832a3248a4e2d7a78c4037b44f9ecb6a006
 abstract: >-
   Demonstrates that object labels help infants learn and generalize speech-sound categories.
 cover: /assets/images/covers/2014_yeung_nazzi.jpg
