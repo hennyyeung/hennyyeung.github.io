@@ -1,5 +1,5 @@
 ---
-title: "Mmm whatcha say? uncovering distal and proximal context effects in first and second-language word perception using psychophysical reverse correlation"
+title: "Mmm whatcha say? Uncovering distal and proximal context effects in first and second-language word perception using psychophysical reverse correlation"
 date: 2024-01-01 00:00:00 +0000
 selected: true
 pub: "INTERSPEECH"
