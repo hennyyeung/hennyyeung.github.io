@@ -5,7 +5,7 @@ selected: false
 pub: "Journal of the Acoustical Society of America"
 pub_last:
 pub_date: "2013"
-semantic_scholar_id:
+semantic_scholar_id: 3e7c8aa5edc2435c4929500c90cc380fb8304786
 abstract: >-
   Shows how articulating speech and even just imagining articulation can influence speech perception.
 cover: /assets/images/covers/2013_scott_etal.jpg
