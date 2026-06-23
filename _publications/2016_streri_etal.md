@@ -5,7 +5,7 @@ selected: false
 pub: "Infancy"
 pub_last:
 pub_date: "2016"
-semantic_scholar_id:
+semantic_scholar_id: b1bd10b416d82581a9195c6c0b96b3e99b8a2302
 abstract: >-
   Charts infants' progress in matching facial speech information with corresponding vowel sounds.
 cover: /assets/images/covers/2016_streri_etal.jpg
