@@ -1,7 +1,7 @@
 ---
 title: "Foreign language learning in French speakers is associated with rhythm perception but not with melody perception"
 date: 2015-01-01 00:00:00 +0000
-selected: false
+selected: true
 pub: "Journal of Experimental Psychology: Human Perception and Performance"
 pub_last:
 pub_date: "2015"
@@ -10,8 +10,8 @@ abstract: >-
   Links success in learning a language with lexical stress to rhythmic processing abilities
 cover: /assets/images/covers/2015_bhatara_etal.jpg
 authors:
-- Anjali Bhatara
-- Henny Yeung
+- Anjali Bhatara*
+- Henny Yeung*
 - Thierry Nazzi
 links:
   doi: https://psycnet.apa.org/doi/10.1037/a0038736
