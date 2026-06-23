@@ -5,7 +5,7 @@ selected: false
 pub: "Cognitive Science"
 pub_last:
 pub_date: "2018"
-semantic_scholar_id:
+semantic_scholar_id: 55f1e8f321734bd56c95c04d9498c954d1f9b3ce
 abstract: >-
   Shows how learning lexical stres contrasts alters how listeners perceive auditory rhythm patterns.
 cover: /assets/images/covers/2018_yeung_etal.jpg
