@@ -1,5 +1,5 @@
 ---
-title:          "How Do Infants Become Experts at Native-Speech Perception?"
+title:          "How do infants become experts at native-speech perception?"
 date:           2012-01-01 00:00:00 +0000
 selected:       false
 pub:            "Current Directions in Psychological Science"
