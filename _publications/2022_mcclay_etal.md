@@ -7,8 +7,7 @@ pub_last:
 pub_date: "2022"
 semantic_scholar_id: d5e9a44e8e0b4e23cf3121f3b2eb771d06b74bf8
 abstract: >-
-  Investigates cross-cultural variation in infant-directed speech by comparing
-  the articulation of mothers speaking to infants in Canada and Vanuatu.
+  Shows how the phonetic properties of infant-directed speech are strikingly different across cultures/languages.
 cover: /assets/images/covers/2022_mcclay_etal.jpg
 authors:
   - Elise McClay
