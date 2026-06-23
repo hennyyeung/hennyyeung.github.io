@@ -1,7 +1,7 @@
 ---
 title: "Object labeling influences infant phonetic learning and generalization"
 date: 2014-01-01 00:00:00 +0000
-selected: false
+selected: true
 pub: "Cognition"
 pub_last:
 pub_date: "2014"
