@@ -7,12 +7,12 @@ pub_last:
 pub_date: "2023"
 semantic_scholar_id: 9e7784d0143910d76284bd9a9f745a860eade52e
 abstract: >-
-  Examines how children integrate auditory and visual speech information
+  Examines surprisingly slow development in children's use of visual speech information for lexical access
 cover: /assets/images/covers/2023_zamuner_etal.jpg
 authors:
   - Tania Zamuner
   - Theresa Rabideau
-  - Margaret McDonald
+  - Margarethe McDonald
   - Henny Yeung
 links:
   doi: https://doi.org/10.1017/S0305000921000684
