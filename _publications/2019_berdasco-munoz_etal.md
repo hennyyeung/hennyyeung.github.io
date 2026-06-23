@@ -1,7 +1,7 @@
 ---
 title: "Visual scanning of a talking face in preterm and full-term infants"
 date: 2019-01-01 00:00:00 +0000
-selected: false
+selected: true
 pub: "Developmental Psychology"
 pub_last:
 pub_date: "2019"
