@@ -1,7 +1,7 @@
 ---
 title: "Postural control of the vocal tract affects auditory speech perception"
 date: 2021-01-01 00:00:00 +0000
-selected: false
+selected: true
 pub: "Journal of Experimental Psychology: General"
 pub_last:
 pub_date: "2021"
