@@ -8,7 +8,7 @@ pub_date: "2014"
 semantic_scholar_id:
 abstract: >-
   Reviews outstanding questions concerning how sensorimotor processes contribute to audiovisual speech perception.
-cover: /assets/images/covers/2014_guellai_etal.jpg
+cover: 
 authors:
 - Bahia Guellaï
 - Arlette Streri
