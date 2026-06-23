@@ -15,4 +15,5 @@ authors:
   - Thierry Nazzi
 links:
   doi: https://doi.org/10.1111/desc.12803
+  pdf: https://hal.science/hal-02292021/file/Hoareau%20et%20al.%202019_TPs_Input_Babbling_Dev%20Sci.pdf
 ---
