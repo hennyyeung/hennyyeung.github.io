@@ -5,7 +5,7 @@ selected: false
 pub: "PLoS ONE"
 pub_last:
 pub_date: "2016"
-semantic_scholar_id:
+semantic_scholar_id: c491234df1d865c4c529352db502b20bb51cf8de
 abstract: >-
   Demonstrates how eye-tracking measures can uncover more subtle responses beyond traditional looking-time analyses.
 cover: /assets/images/covers/2016_yeung_etal.jpg
