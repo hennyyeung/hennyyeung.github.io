@@ -7,7 +7,7 @@ pub_last:
 pub_date: "2013"
 semantic_scholar_id:
 abstract: >-
-  Reports evidence that internally generated speech representations can influence perception of spoken language.
+  Shows how articulating speech and even just imagining articulation can influence speech perception.
 cover: /assets/images/covers/2013_scott_etal.jpg
 authors:
 - Mark Scott
