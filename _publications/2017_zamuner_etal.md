@@ -8,7 +8,7 @@ pub_date: "2017"
 semantic_scholar_id:
 abstract: >-
   Commentary discussing how speech production influences phonological processing.
-cover: /assets/images/covers/2017_zamuner_etal.jpg
+cover: 
 authors:
 - Tania Zamuner
 - Henny Yeung
