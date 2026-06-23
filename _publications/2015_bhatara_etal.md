@@ -5,7 +5,7 @@ selected: false
 pub: "Journal of Experimental Psychology: Human Perception and Performance"
 pub_last:
 pub_date: "2015"
-semantic_scholar_id:
+semantic_scholar_id: 1cfeed04b82b3a369b64fca51f88bc6b77be9ebc
 abstract: >-
   Links success in learning a language with lexical stress to rhythmic processing abilities
 cover: /assets/images/covers/2015_bhatara_etal.jpg
