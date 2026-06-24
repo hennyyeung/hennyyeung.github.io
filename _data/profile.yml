@@ -25,7 +25,7 @@ short_bio_text_justify: false
 short_bio: |
   <p style="margin-bottom: 0.75em;">
     I am a <strong>linguist</strong> and <strong>cognitive scientist</strong> who does
-    fundamental research in three areas.
+    fundamental research in these areas.
   </p>
 
   <ul style="padding-left: 1.2em; color:#444;">
@@ -60,7 +60,7 @@ short_bio: |
     padding-left: 0.75em;
     margin-top: 0.75em;
   ">
-    Selected publications reflect recent research, with scholars trained in my group having active hyperlinks in author lists.
+    Selected publications highlight recent work. Scholars trained in my group have active hyperlinks in author lists.
   </p>
 
 
