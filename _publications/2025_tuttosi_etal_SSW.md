@@ -1,7 +1,7 @@
 ---
 title: "You sound a little tense: L2 tailored TTS using durational vowel properties"
 date: 2025-08-24 00:00:00 +0000
-selected: true
+selected: false
 pub: "Proceedings of the 13th ISCA Speech Synthesis Workshop"
 pub_last:
 pub_date: "2025"
