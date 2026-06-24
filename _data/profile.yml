@@ -22,52 +22,54 @@ linkedin: henny-yeung-521a5282
 orcid: 0000-0003-4601-6924
 
 short_bio_text_justify: false
-short_bio: #A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourp[...]
+short_bio: 
 >-
   <p>
     This page is under construction.
   </p>
-<p>
-  I am a researcher in <strong>Linguistics</strong> and <strong>Cognitive Science</strong>.
-  I am interested in three interrelated research topics:
-</p>
+  <p>
+    I am a researcher in <strong>Linguistics</strong> and <strong>Cognitive Science</strong>,
+    with interests spanning three interrelated areas
+  </p>
+  <ol>
+    <li>
+      <strong>Prosody and speech style</strong>
+      <ul>
+        <li>In speech directed to infants and children</li>
+        <li>In digital media and speech technologies</li>
+      </ul>
+    </li>
 
-<ol>
-  <li>
-    <strong>Prosody and speech style</strong>
-    <ul>
-      <li>As spoken to infants and children</li>
-      <li>As used in digital media and technology</li>
-    </ul>
-  </li>
+    <li>
+      <strong>Technology in second language (L2) acquisition</strong>
+      <ul>
+        <li>Children using their first and second languages while learning to read</li>
+        <li>
+          Adults learning to listen and read in their L2, including through online
+          applications and artificially generated voices
+        </li>
+      </ul>
+    </li>
 
-  <li>
-    <strong>How technology is used in second language (L2) acquisition</strong>
-    <ul>
-      <li>
-        In children using their first and second languages while learning to read
-      </li>
-      <li>
-        In adults who learn to listen and read in their L2 using online applications
-        and potentially artificially generated voices
-      </li>
-    </ul>
-  </li>
+    <li>
+      <strong>Foundations of speech learning in infancy and childhood</strong>
+      <ul>
+        <li>
+          How auditory, visual, and sensorimotor cues from faces and self-produced
+          speech support speech acquisition
+        </li>
+        <li>
+          My early graduate work examined how infants acquire speech sound patterns
+        </li>
+      </ul>
+    </li>
+  </ol>
 
-  <li>
-    <strong>Fundamentals of speech learning in infants and children</strong>
-    <ul>
-      <li>
-        How different kinds of speech information from faces and from speaking oneself
-        (i.e., audio, visual, and sensorimotor cues) support speech acquisition
-      </li>
-      <li>
-        My early work in graduate school focused on how infants acquire speech sound
-        patterns
-      </li>
-    </ul>
-  </li>
-</ol>
+  <p style="font-size: 0.8em; color: #555;">
+    Scholars trained in my group have active hyperlinks in publication author lists.
+  </p>
+
+
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
