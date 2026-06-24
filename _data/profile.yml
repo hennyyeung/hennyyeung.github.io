@@ -24,8 +24,8 @@ orcid: 0000-0003-4601-6924
 short_bio_text_justify: false
 short_bio: |
   <p style="margin-bottom: 0.75em;">
-    I am a <strong>linguist</strong> and <strong>cognitive scientist</strong>. I have a wide-ranging interests, but I mainly do
-    fundamental research in these areas.
+    Note that people have always called me (in English) by my middle name. I am a <strong>linguist</strong> and <strong>cognitive scientist</strong>.
+    I do fundamental research in mainly these areas.
   </p>
 
   <ul style="padding-left: 1.2em; color:#444;">
@@ -60,9 +60,9 @@ short_bio: |
     padding-left: 0.75em;
     margin-top: 0.75em;
   ">
-    Please contact me for MA, PhD, and Postdoc opportunities: We embrace open science and creative approaches to interesting problems.
-    Selected publications highlight recent work from scholars trained in my research group, designated with active hyperlinks in author lists.
-    Most of my publications are listed on this site, but my CV has a complete list.
+    Contact me for MA, PhD, and Postdoc opportunities: We embrace open science and creative approaches to interesting problems.
+    Selected publications highlight recent work from scholars trained in my research group, who have active hyperlinks in author lists.
+    Most of my publications are listed on this site, but my CV has a full list.
   </p>
 
 
