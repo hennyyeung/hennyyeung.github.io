@@ -1,13 +1,13 @@
 ---
 title: "Contextual effects on spoken word processing: An eye-tracking study of the time course of tone and vowel activation in Mandarin"
 date: 2023-01-01 00:00:00 +0000
-selected: true
+selected: false
 pub: "Journal of Experimental Psychology: Learning, Memory, and Cognition"
 pub_last:
 pub_date: "2023"
 semantic_scholar_id: 37b743775d1ceb3717fc4629274f89e967013ef3
 abstract: >-
-  Shows either tone or vowel activation in a noun can happen even BEFORE the noun is heard.
+  Shows that lexical activation of either tonal or vowel parts of a Mandarin noun are influenced by context, even BEFORE the noun is heard.
 cover: /assets/images/covers/2023_deng_etal.jpg
 authors:
   - Xizi Deng
