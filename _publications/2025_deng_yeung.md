@@ -1,13 +1,13 @@
 ---
 title: "The perception of accented English by Mandarin learners of English: Revisiting the interlanguage speech intelligibility benefit"
 date: 2025-01-01 00:00:00 +0000
-selected: false
+selected: true
 pub: "Journal of Phonetics"
 pub_last:
 pub_date: "2025"
 semantic_scholar_id: d06fe9b3c2ef6627cd73812dffe7f48ef0723147
 abstract: >-
-  Deep investigation of how Mandarin learners of English perceive Mandarin-accented English words.
+  Most comprehensive investigation of how Mandarin learners of English perceive Mandarin-accented English words.
 cover: /assets/images/covers/2025_deng_yeung.jpg
 authors:
   - Xizi Deng
