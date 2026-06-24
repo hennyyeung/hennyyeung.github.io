@@ -1,7 +1,7 @@
 ---
 title:          "Lip movements affect infants’ audiovisual speech perception"
 date:           2013-01-01 00:00:00 +0000
-selected:       true
+selected:       false
 pub:            "Psychological Science"
 pub_last:		
 pub_date:       "2013"
