@@ -7,7 +7,7 @@ pub_last:
 pub_date: "2025"
 semantic_scholar_id: 1f403eb16ed9416aa780c8d181a76b23ee24f876
 abstract: >-
-  Examines how speech characteristics relate to social skills in autistic and non-autistic children.
+  Examines how both mothers' and children's speech prosody is related to autistic and non-autistic children's social skills.
 cover: /assets/images/covers/2025_janes_etal.jpg
 authors:
   - Alyssa Janes
