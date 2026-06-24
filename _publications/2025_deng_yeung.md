@@ -7,7 +7,7 @@ pub_last:
 pub_date: "2025"
 semantic_scholar_id: d06fe9b3c2ef6627cd73812dffe7f48ef0723147
 abstract: >-
-  Thorough investigation of how Mandarin learners of English perceive Mandarin-accented English words.
+  Deep investigation of how Mandarin learners of English perceive Mandarin-accented English words.
 cover: /assets/images/covers/2025_deng_yeung.jpg
 authors:
   - Xizi Deng
