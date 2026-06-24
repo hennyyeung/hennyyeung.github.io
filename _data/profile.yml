@@ -27,10 +27,47 @@ short_bio: #A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank
   <p>
     This page is under construction.
   </p>
-  <p>
-    I am a researcher in <strong>Linguistics</strong> and <strong>Cognitive Science</strong>, interested in prosody and style in speech directed to infants and children, and as used in digital media and technology.
-    I also work on second language (L2) acquisition in children and adults, and previously did basic research on speech learning in infancy.
-  </p>
+<p>
+  I am a researcher in <strong>Linguistics</strong> and <strong>Cognitive Science</strong>.
+  I am interested in three interrelated research topics:
+</p>
+
+<ol>
+  <li>
+    <strong>Prosody and speech style</strong>
+    <ul>
+      <li>As spoken to infants and children</li>
+      <li>As used in digital media and technology</li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>How technology is used in second language (L2) acquisition</strong>
+    <ul>
+      <li>
+        In children using their first and second languages while learning to read
+      </li>
+      <li>
+        In adults who learn to listen and read in their L2 using online applications
+        and potentially artificially generated voices
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Fundamentals of speech learning in infants and children</strong>
+    <ul>
+      <li>
+        How different kinds of speech information from faces and from speaking oneself
+        (i.e., audio, visual, and sensorimotor cues) support speech acquisition
+      </li>
+      <li>
+        My early work in graduate school focused on how infants acquire speech sound
+        patterns
+      </li>
+    </ul>
+  </li>
+</ol>
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
