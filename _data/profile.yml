@@ -23,14 +23,12 @@ orcid: 0000-0003-4601-6924
 
 short_bio_text_justify: false
 short_bio: |
-
   <p style="margin-bottom: 0.75em;">
-  I am a <strong>linguist</strong> and <strong>cognitive scientist</strong> who does
-  fundamental research in three areas.
-</p>
+    I am a <strong>linguist</strong> and <strong>cognitive scientist</strong> who does
+    fundamental research in three areas.
+  </p>
 
-<ul style="padding-left: 1.2em; color:#444;">
-
+  <ul style="padding-left: 1.2em; color:#444;">
   <li style="margin-bottom: 0.8em;">
     <strong style="color:#2c5f9e;">Prosody and speech style</strong><br />
     <span style="font-size: 0.95em;">
@@ -43,15 +41,15 @@ short_bio: |
     <strong style="color:#2c5f9e;">Technology in second language (L2) acquisition</strong><br />
     <span style="font-size: 0.95em;">
       With multilingual children learning to read, and with adults learning to
-      listen and read in their second language
+      listen and read in their L2
     </span>
   </li>
 
   <li style="margin-bottom: 0.6em;">
     <strong style="color:#2c5f9e;">Speech learning in infancy and childhood</strong><br />
     <span style="font-size: 0.95em;">
-      Using auditory, visual, and sensorimotor cues from faces and self-produced
-      speech, including how infants acquire speech sound patterns
+      How auditory, visual, and sensorimotor cues from both seeing talking faces and producing early speech sounds
+      can help infants acquire speech sound patterns
     </span>
   </li>
 
