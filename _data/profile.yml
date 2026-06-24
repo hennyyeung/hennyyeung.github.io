@@ -53,16 +53,16 @@ short_bio: |
     </span>
   </li>
 
-</ul>
+  </ul>
 
-<p style="
-  font-size: 0.8em;
-  color: #555;
-  padding-left: 0.75em;
-  margin-top: 0.75em;
-">
-  Scholars trained in my group have active hyperlinks in author lists for my publications.
-</p>
+  <p style="
+    font-size: 0.8em;
+    color: #555;
+    padding-left: 0.75em;
+    margin-top: 0.75em;
+  ">
+    Scholars trained in my group have active hyperlinks in author lists for my publications.
+  </p>
 
 
 portrait_url: /assets/images/photos/portrait.jpg
