@@ -7,7 +7,7 @@ pub_last:
 pub_date: "2024"
 semantic_scholar_id: acf4833a84593a4a3839eac9ffc51fe718b8079b
 abstract: >-
-  Uses a new technique utilizing voice synthesis to show how phonetic context influences vowel perception.
+  Explains a new technique using voice synthesis that reveals how the prosody of sentential contexts influences vowel perception.
 cover: /assets/images/covers/2024_tuttosi_etal.jpg
 authors:
   - Paige Tuttösí
