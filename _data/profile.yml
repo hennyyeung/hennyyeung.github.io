@@ -27,53 +27,45 @@ short_bio: |
   <p style="margin-bottom: 0.75em;">
   I am a <strong>linguist</strong> and <strong>cognitive scientist</strong> who does
   fundamental research in three areas.
-  </p>
+</p>
 
-  <ul style="padding-left: 1.2em; list-style-type: disc;">
+<ul style="padding-left: 1.2em; color:#444;">
 
-  <li style="margin-bottom: 1.1em;">
-    <strong style="color:#2c5f9e;">Prosody and speech style</strong>
-    <ul style="margin-top: 0.4em; color:#444; list-style-type: circle;">
-      <li>In speech directed to infants and children</li>
-      <li>In digital media and speech technologies</li>
-    </ul>
+  <li style="margin-bottom: 0.8em;">
+    <strong style="color:#2c5f9e;">Prosody and speech style</strong><br />
+    <span style="font-size: 0.95em;">
+      In speech directed to infants and children, and in digital media and speech
+      technologies
+    </span>
   </li>
 
-  <li style="margin-bottom: 1.1em;">
-    <strong style="color:#2c5f9e;">Technology in second language (L2) acquisition</strong>
-    <ul style="margin-top: 0.4em; color:#444; list-style-type: circle;">
-      <li>With multilingual children learning to read</li>
-      <li>
-        With adults learning to listen and read in their second language
-      </li>
-    </ul>
+  <li style="margin-bottom: 0.8em;">
+    <strong style="color:#2c5f9e;">Technology in second language (L2) acquisition</strong><br />
+    <span style="font-size: 0.95em;">
+      With multilingual children learning to read, and with adults learning to
+      listen and read in their second language
+    </span>
   </li>
 
   <li style="margin-bottom: 0.6em;">
-    <strong style="color:#2c5f9e;">Speech learning in infancy and childhood</strong>
-    <ul style="margin-top: 0.4em; color:#444; list-style-type: circle;">
-      <li>
-        Using auditory, visual, and sensorimotor cues from faces and from
-        self-produced speech
-      </li>
-      <li>
-        How infants acquire speech sound patterns
-        (my earlier work from graduate school)
-      </li>
-    </ul>
+    <strong style="color:#2c5f9e;">Speech learning in infancy and childhood</strong><br />
+    <span style="font-size: 0.95em;">
+      Using auditory, visual, and sensorimotor cues from faces and self-produced
+      speech, including how infants acquire speech sound patterns
+    </span>
   </li>
 
-  </ul>
+</ul>
 
-  <p style="
-    font-size: 0.8em;
-    color: #555;
-    border-left: 3px solid #ddd;
-    padding-left: 0.75em;
-    margin-top: 0.75em;
-  ">
-    Scholars trained in my group have active hyperlinks in author lists for my publications.
-  </p>
+<p style="
+  font-size: 0.8em;
+  color: #555;
+  padding-left: 0.75em;
+  margin-top: 0.75em;
+">
+  Scholars trained in my group have active hyperlinks in author lists for my publications.
+</p>
+
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
