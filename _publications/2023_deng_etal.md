@@ -1,7 +1,7 @@
 ---
 title: "Contextual effects on spoken word processing: An eye-tracking study of the time course of tone and vowel activation in Mandarin"
 date: 2023-01-01 00:00:00 +0000
-selected: false
+selected: true
 pub: "Journal of Experimental Psychology: Learning, Memory, and Cognition"
 pub_last:
 pub_date: "2023"
