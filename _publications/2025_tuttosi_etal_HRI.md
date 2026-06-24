@@ -8,7 +8,7 @@ pub_date: "2025"
 semantic_scholar_id: 790a48673df720f8f031e4455b664ba5f66ea827
 abstract: >-
   Demonstrates EmojiVoice, a customizable TTS toolkit for expressive storytelling.
-cover: /assets/images/covers/2025_tuttosi_etal_hri.jpg
+cover: /assets/images/covers/2025_tuttosi_etal_HRI.jpg
 authors:
   - Paige Tuttösí
   - Shivam Mehta
