@@ -8,7 +8,7 @@ pub_date: "2025"
 semantic_scholar_id: e633c826bfa8db76c922a6d8cfb7cbea66c4416d
 abstract: >-
   Presents the first TTS system tailored to L2 listeners; uses “clarity mode” to improves vowel intelligibility using duration cues.
-cover: /assets/images/covers/2025_tuttosi_etal_ssw.jpg
+cover: /assets/images/covers/2025_tuttosi_etal_SSW.jpg
 authors:
   - Paige Tuttösí
   - Henny Yeung
