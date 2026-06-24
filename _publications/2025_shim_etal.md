@@ -1,5 +1,5 @@
 ---
-title: "Generating Consistent Prosodic Patterns from Open-Source TTS Systems"
+title: "Generating consistent prosodic patterns from open-source TTS systems"
 date: 2025-01-01 00:00:00 +0000
 selected: true
 pub: "INTERSPEECH"
