@@ -24,7 +24,7 @@ orcid: 0000-0003-4601-6924
 short_bio_text_justify: false
 short_bio: |
   <p style="margin-bottom: 0.75em;">
-    Note that everyone has always called me (in English) by my middle name, <em>Henny</em>. I am a <strong>linguist</strong> and <strong>cognitive scientist</strong> 
+    Note that everyone calls me (in English) by my middle name, <em>Henny</em>. I am a <strong>linguist</strong> and <strong>cognitive scientist</strong> 
     who mainly does fundamental research in these areas:
   </p>
 
@@ -47,8 +47,7 @@ short_bio: |
   <li style="margin-bottom: 0.6em;">
     <strong style="color:#2c5f9e;">Speech learning in infancy and childhood</strong><br />
     <span style="font-size: 0.95em;">
-      How auditory, visual, and sensorimotor cues from both seeing talking faces and producing early speech sounds
-      helps young learners acquire phonological patterns
+      How seeing talking faces and themselves producing speech may help young learners acquire phonological patterns
     </span>
   </li>
 
@@ -61,8 +60,9 @@ short_bio: |
     margin-top: 0.75em;
   ">
     Contact me for MA, PhD, and Postdoc opportunities: We embrace open science and creative approaches to interesting problems.
-    Selected publications highlight work from scholars recently trained in my research group, who are designated with hyperlinks in author lists.
-    Most of my publications are listed on this site, but my CV has a full list. My teaching resources are located on other, institutional websites where I instruct courses.
+    Selected publications highlight work from scholars recently trained in my research group, all designated with hyperlinks in author lists.
+    Most of my publications are listed on this site, but my CV has a full list.
+    I also teach on these topics, and my materials can be found at the universities where I instruct courses.
   </p>
 
 
