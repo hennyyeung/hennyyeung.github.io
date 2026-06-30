@@ -7,7 +7,7 @@ pub_last:
 pub_date: "2023"
 semantic_scholar_id: 37b743775d1ceb3717fc4629274f89e967013ef3
 abstract: >-
-  Shows that lexical activation of either tonal or vowel parts of a Mandarin noun are influenced by context, even BEFORE the noun is heard.
+  Shows that lexical activation of either tonal or vocalic parts of a Mandarin word are influenced by sentential context, even BEFORE the word is heard.
 cover: /assets/images/covers/2023_deng_etal.jpg
 authors:
   - Xizi Deng
