@@ -7,7 +7,7 @@ pub_last:
 pub_date: "2024"
 semantic_scholar_id: 6a4bf5ba12aa78fc587b2e58bd61daaec1551023
 abstract: >-
-  Examines voice quality in English infant-directed speech.
+  The first study to compare creakiness and breathiness in English adult- and infant-directed speech.
 cover: /assets/images/covers/2024_cheng_etal.jpg
 authors:
   - Andrew Cheng
