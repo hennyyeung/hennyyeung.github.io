@@ -8,7 +8,7 @@ pub_date: "2026"
 semantic_scholar_id: 281dc25ac85332863eafe072257653e1cb822a75
 abstract: >-
   Uses classifier techniques to analyze the phonetics of accented consonants in regional Mandarin varieties.
-cover: /assets/covers/2026_wang_etal.jpg
+cover: /assets/images/covers/2026_wang_etal.jpg
 authors:
   - Fenqi Wang
   - Delin Deng
