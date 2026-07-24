@@ -1,5 +1,5 @@
 ---
-title: "Child phonology in a language revitalization context: Evidence from Hul’q’umi’num."
+title: "Child phonology in a language revitalization context: Evidence from Hul’q’umi’num"
 date: 2026-01-01 00:00:00 +0000
 selected: true
 pub: "Journal of Child Language"
