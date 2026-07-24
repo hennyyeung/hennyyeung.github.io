@@ -8,7 +8,7 @@ pub_date: "2026"
 semantic_scholar_id: 7411809c27e9ec61894b137d2ff7782194542c14
 abstract: >-
   Explores English-dominance in an afterschool literacy program within a highly multilingual school district.
-cover: /assets/images/covers/2026_li_etal2.jpg
+cover: 
 authors:
   - Guofang Li
   - Ziwen Mei
