@@ -7,7 +7,7 @@ pub_last:
 pub_date: "2025"
 semantic_scholar_id: d06fe9b3c2ef6627cd73812dffe7f48ef0723147
 abstract: >-
-  How adult learners of a second language learn to deal with accents in that language: The most comprehensive study to date investigating this phenomenon at the word-level.
+  Adult learners of a second language must cope with accents in that language: The most comprehensive study to date at the word-level.
 cover: /assets/images/covers/2025_deng_yeung.jpg
 authors:
   - Xizi Deng
