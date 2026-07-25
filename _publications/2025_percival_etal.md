@@ -7,7 +7,7 @@ pub_last:
 pub_date: "2025"
 semantic_scholar_id: c6a439bb6b1571565b717144c1092c777d9c5c3e
 abstract: >-
-  Describes the development of online quizzes for adult learners of Hul’q’umi’num’.
+  Describes the development of online quizzes for improving speech perception in adult learners of an Indigenous language.
 cover: /assets/images/covers/2025_percival_etal.jpg
 authors:
   - Maida Percival
