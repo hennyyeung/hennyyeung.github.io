@@ -5,7 +5,7 @@ selected: false
 pub: "The Reading Teacher"
 pub_last:
 pub_date: "2026"
-semantic_scholar_id: 26affd0b06cee2bb195abe079d8b714bda21cd59
+semantic_scholar_id: 
 abstract: >-
   Examines how arts-based cultural probes support multilingualism in an afterschool literacy program.
 cover: /assets/images/covers/2026_li_etal.jpg
