@@ -5,7 +5,7 @@ selected: false
 pub: "Developmental Psychology"
 pub_last:
 pub_date: "2019"
-semantic_scholar_id: f9f3368a5d58c0871cc635adaca82c2817863bdd
+semantic_scholar_id: 
 abstract: >-
   Compares visual attention to talking faces in preterm and full-term infants.
 cover: /assets/images/covers/2019_berdasco-munoz_etal.jpg
