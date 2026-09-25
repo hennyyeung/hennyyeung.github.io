@@ -5,7 +5,7 @@ selected: true
 pub: "INTERSPEECH"
 pub_last:
 pub_date: "2025"
-semantic_scholar_id: 8910a0fd317fd06b2807a74129c34c6cebe8cdbe
+semantic_scholar_id: 
 abstract: >-
   Shows that open-source text-to-speech (TTS) systems fail to make clear prosodic boundaries when needed to disambiguate sentence meanings.
 cover: /assets/images/covers/2025_shim_etal.jpg
