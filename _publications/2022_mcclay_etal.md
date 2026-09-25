@@ -5,7 +5,7 @@ selected: false
 pub: "Developmental Science"
 pub_last:
 pub_date: "2022"
-semantic_scholar_id: d5e9a44e8e0b4e23cf3121f3b2eb771d06b74bf8
+semantic_scholar_id: 
 abstract: >-
   Shows how the phonetic properties of infant-directed speech are strikingly different across cultures/languages.
 cover: /assets/images/covers/2022_mcclay_etal.jpg
