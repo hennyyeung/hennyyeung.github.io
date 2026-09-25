@@ -5,7 +5,7 @@ selected: true
 pub: "Journal of Phonetics"
 pub_last:
 pub_date: "2025"
-semantic_scholar_id: d06fe9b3c2ef6627cd73812dffe7f48ef0723147
+semantic_scholar_id:
 abstract: >-
   Adult learners of a second language must cope with accents in that language: The most comprehensive study to date at the word-level.
 cover: /assets/images/covers/2025_deng_yeung.jpg
