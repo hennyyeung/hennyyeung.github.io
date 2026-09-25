@@ -5,7 +5,7 @@ selected: false
 pub: "Cognition"
 pub_last:
 pub_date: "2019"
-semantic_scholar_id: adf38d9000b3cfe8e8d5ef99fcbd6bab25b8dcb3
+semantic_scholar_id: 
 abstract: >-
   Examines speech production errors involving lexical tone in Cantonese.
 cover: /assets/images/covers/2019_alderete_etal.jpg
