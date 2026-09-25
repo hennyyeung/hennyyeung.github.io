@@ -8,7 +8,7 @@ pub_date: "2026"
 semantic_scholar_id: 
 abstract: >-
   Qualitative study of using technological tools to increase home language use in an afterschool reading program
-cover: /assets/images/covers/2026_wang_etal.jpg
+cover: /assets/images/covers/2026_li_etal3.jpg
 authors:
   - Guofang Li
   - Ziwen Mei
