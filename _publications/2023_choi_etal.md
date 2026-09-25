@@ -5,7 +5,7 @@ selected: false
 pub: "Trends in Cognitive Sciences"
 pub_last: <span class="badge badge-pill badge-publication badge-success">Review</span>
 pub_date: "2023"
-semantic_scholar_id: de6323fdc071c82ca06314f5346a4232b5318955
+semantic_scholar_id: 
 abstract: >-
   Review paper proposing mechanisms for very early sensorimotor influences on infant speech perception.
 cover: /assets/images/covers/2023_choi_etal.jpg
