@@ -1,11 +1,11 @@
 ---
 title: "Take a look, it’s in a book, a reading robot"
 date: 2025-03-04 00:00:00 +0000
-selected: true
+selected: false
 pub: "Proceedings of the ACM/IEEE International Conference on Human‑Robot Interaction"
 pub_last:
 pub_date: "2025"
-semantic_scholar_id: 790a48673df720f8f031e4455b664ba5f66ea827
+semantic_scholar_id: 
 abstract: >-
   Demonstrates EmojiVoice, a customizable TTS toolkit for expressive storytelling.
 cover: /assets/images/covers/2025_tuttosi_etal_HRI.jpg
