@@ -15,6 +15,6 @@ authors:
   - Ziwen Mei
   - Henny Yeung
 links:
-  doi: https://www.tandfonline.com/doi/full/10.1080/01434632.2025.2552332
+  doi: https://doi.org/10.1002/trtr.70045
   pdf: https://ila.onlinelibrary.wiley.com/doi/epdf/10.1002/trtr.70045
 ---
