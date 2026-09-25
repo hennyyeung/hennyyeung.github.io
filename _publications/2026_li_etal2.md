@@ -16,6 +16,6 @@ authors:
   - Jonathan Ferreira
   - Henny Yeung
 links:
-  doi: https://doi.org/10.1002/trtr.70045
+  doi: https://www.tandfonline.com/doi/full/10.1080/01434632.2025.2552332
   pdf: https://www.sfu.ca/content/dam/sfu/langdev/Research/Publications/LI-ET-AL.pdf
 ---
