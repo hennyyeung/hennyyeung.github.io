@@ -5,7 +5,7 @@ selected: false
 pub: "Developmental Science"
 pub_last:
 pub_date: "2019"
-semantic_scholar_id: 1a972e1fdb91e8a57a96026214706e6a6518e00b
+semantic_scholar_id: 
 abstract: >-
   Relates infant word segmentation to the language environment and emerging productive language.
 cover: /assets/images/covers/2019_hoareau_etal.jpg
