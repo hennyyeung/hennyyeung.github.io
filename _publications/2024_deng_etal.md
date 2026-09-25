@@ -5,7 +5,7 @@ selected: false
 pub: "PLoS ONE"
 pub_last:
 pub_date: "2024"
-semantic_scholar_id: 3bb415dff52a96cf1ca4c250f557deb6ed0707aa
+semantic_scholar_id: 
 abstract: >-
   Shows how looking to the eyes or mouth of a face is guided by the search for prosodic of segmental speech cues.
 cover: /assets/images/covers/2024_deng_etal.jpg
