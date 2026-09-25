@@ -5,7 +5,7 @@ selected: false
 pub: "Journal of Experimental Psychology: General"
 pub_last:
 pub_date: "2021"
-semantic_scholar_id: 14452c3fa783be677da348228460025d07997daf
+semantic_scholar_id:
 abstract: >-
   Demonstrates that breath-holding can influence auditory speech perception.
 cover: /assets/images/covers/2021_yeung_scott.jpg
