@@ -5,7 +5,7 @@ selected: true
 pub: "Applied Psychoinguistics"
 pub_last:
 pub_date: "2026"
-semantic_scholar_id: 96f2e4045e0c44e5d3f60d0378edb7a71693bc17
+semantic_scholar_id: 
 abstract: >-
   Music perception is correlated with native Mandarin speakers' production of English lexical stress, even in naturalistic speech tasks.
 cover: /assets/images/covers/2026_deng_etal.jpg
