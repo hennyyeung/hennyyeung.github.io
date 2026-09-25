@@ -5,7 +5,7 @@ selected:       false
 pub:            "Trends in Cognitive Sciences"
 pub_last:		' <span class="badge badge-pill badge-publication badge-success">Review</span>'
 pub_date:       "2005"
-semantic_scholar_id: 70f58c7a446f1d6b02efd752be3ac6047696865d
+semantic_scholar_id: 
 abstract: >-
   Review paper showing how infant speech development helps word learning
 cover:          /assets/images/covers/Werker_2005.jpg
