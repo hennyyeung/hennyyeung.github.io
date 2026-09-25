@@ -5,7 +5,7 @@ selected: false
 pub: "British Journal of Psychology"
 pub_last: <span class="badge badge-pill badge-publication badge-success">Commentary</span>
 pub_date: "2017"
-semantic_scholar_id: ed3d377be4e7e3cdad43b8a148b4c3d18b847dff
+semantic_scholar_id: 
 abstract: >-
   Commentary discussing how speech production influences phonological processing.
 cover: 
