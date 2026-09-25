@@ -5,7 +5,7 @@ selected: false
 pub: "Multilingua"
 pub_last:
 pub_date: "2024"
-semantic_scholar_id: 0c58f040e73cc4377c965b1acca7b80577f8ce5d
+semantic_scholar_id: 
 abstract: >-
   Examines how digital literacy initiatives supported English language learning and social integration during the COVID-19 pandemic.
 cover: /assets/images/covers/2024_hanks_etal.jpg
