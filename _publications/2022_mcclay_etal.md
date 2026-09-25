@@ -1,7 +1,7 @@
 ---
 title: "Rethinking the phonetics of baby-talk: Differences across Canada and Vanuatu in the articulation of mothers' speech to infants"
 date: 2022-01-01 00:00:00 +0000
-selected: true
+selected: false
 pub: "Developmental Science"
 pub_last:
 pub_date: "2022"
