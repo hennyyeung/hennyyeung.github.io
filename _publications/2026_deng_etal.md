@@ -2,7 +2,7 @@
 title: "Associations between music perception and the production of acoustic cues to lexical stress in Mandarin learners of English"
 date: 2026-07-01 00:00:00 +0000
 selected: true
-pub: "Journal of Applied Linguistics"
+pub: "Applied Psychoinguistics"
 pub_last:
 pub_date: "2026"
 semantic_scholar_id: 96f2e4045e0c44e5d3f60d0378edb7a71693bc17
