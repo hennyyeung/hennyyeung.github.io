@@ -5,7 +5,7 @@ selected: true
 pub: "Journal of Child Language"
 pub_last:
 pub_date: "2026"
-semantic_scholar_id: 2a484cff8ecfcef12e918c7c37b8c42b3041f3d0
+semantic_scholar_id: 
 abstract: >-
   Explores how child learn consonants in an Indigenous language, from caregivers who themselves learned it as a second language.
 cover: /assets/images/covers/2026_kwan_etal.jpg
