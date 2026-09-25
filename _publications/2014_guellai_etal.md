@@ -5,7 +5,7 @@ selected: false
 pub: "Frontiers in Psychology"
 pub_last: <span class="badge badge-pill badge-publication badge-success">Review</span>
 pub_date: "2014"
-semantic_scholar_id: f6e91b64ab6ba0ca7a07edd99e0a1bec9f64d74a
+semantic_scholar_id: 
 abstract: >-
   Reviews outstanding questions concerning how sensorimotor processes contribute to audiovisual speech perception.
 cover: 
