@@ -1,13 +1,13 @@
 ---
-title: "Should robots sound more like machines than like humans? User expectations affect the perception of prosody in TTS voices"
+title: "Should robots sound more like machines than like humans?"
 date: 2026-10-01 00:00:00 +0000
 selected: true
 pub: "INTERSPEECH"
-pub_last: "*Nominated for Best Student Paper"
+pub_last: 	    <span class="badge badge-pill badge-publication badge-success">Nominated for Best Student Paper</span>
 pub_date: "2026"
 semantic_scholar_id: 
 abstract: >-
-  Users adjust expectations about TTS prosody when speech voice quality makes a voice sound machine-like.
+  User expectations affect the perception of prosody in TTS voices, especially when voice quality is machine-like.
 cover: /assets/images/covers/2026_shim_etal.jpg
 authors:
   - Ha Eun Shim
