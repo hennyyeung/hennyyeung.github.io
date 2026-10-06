@@ -3,7 +3,7 @@ title: "Should robots sound more like machines than like humans? User expectatio
 date: 2026-10-01 00:00:00 +0000
 selected: true
 pub: "INTERSPEECH"
-pub_last: "* Nominated for Best Student Paper *"
+pub_last: "*Nominated for Best Student Paper"
 pub_date: "2026"
 semantic_scholar_id: 
 abstract: >-
